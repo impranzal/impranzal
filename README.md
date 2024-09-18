@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=impranzal&label=Visitors&color=ff7b00&style=flat" alt="impranzal" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=impranzal" alt="impranzal" /></a> </p>
-
 - 🔭 I’m currently working on [my portfolio](pranjalrimal.com.np)
 
 - 🌱 I’m currently learning **Web Development and Python**
