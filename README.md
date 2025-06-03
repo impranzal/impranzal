@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Pranjal</h1>
-<h3 align="center">Computer Science student and a passionate Web Developer from Nepal</h3>
+<h3 align="center">Computer Science student and an AI/ML Enthusiast from Nepal</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=impranzal&label=Visitors&color=ff7b00&style=flat" alt="impranzal" /> </p>
 
 - 🔭 I’m currently working on [my portfolio](pranjalrimal.com.np)
 
-- 🌱 I’m currently learning **Web Development and Python**
+- 🌱 I’m currently learning **AI/ML and Some Web Dev**
 
 - 👯 I’m looking to collaborate on **awesome projects**
 
