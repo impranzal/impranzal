@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pranjal</h1>
-<h3 align="center">Computer Science student, an AI/ML Enthusiast, and Web Developer from Nepal</h3>
+<h3 align="center">Computer Science student, an AI/ML Enthusiast, and a Web Developer from Nepal</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=impranzal&label=Visitors&color=ff7b00&style=flat" alt="impranzal" /> </p>
@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **awesome projects**
 
-- 👨‍💻 All of my projects are available at [pranjalrimal.com.np](pranjalrimal.com.np)
+- 👨‍💻 All of my projects are available [here](https://pranjalrimal.com.np)
 
 - 📫 How to reach me **pranjalrimal.np@gmail.com**
 
