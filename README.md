@@ -14,8 +14,6 @@
 
 - 📫 How to reach me **pranjalrimal.np@gmail.com**
 
-- 📄 Know about my experiences [resume](resume)
-
 - ⚡ Fun fact **I love mathematics**
 
 <h3 align="left">Connect with me:</h3>
