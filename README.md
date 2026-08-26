@@ -10,7 +10,7 @@
 
 -  I’m looking to collaborate on **awesome projects**
 
--  All of my projects are available [here](https://pranjalrimal.com.np)
+-  All of my projects are available [here](https://pranjalrimal.com.np/#projects)
 
 -  How to reach me **contact.pranjalrimal@gmail.com**
 
