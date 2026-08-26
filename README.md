@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=impranzal&label=Visitors&color=ff7b00&style=flat" alt="impranzal" /> </p>
 
-- I’m currently working on [ny projects](https://pranjalrimal.com.np/#projects)
+- I’m currently working on [my projects](https://pranjalrimal.com.np/#projects)
 
 -  I’m currently learning **AI/ML and Web Dev**
 
